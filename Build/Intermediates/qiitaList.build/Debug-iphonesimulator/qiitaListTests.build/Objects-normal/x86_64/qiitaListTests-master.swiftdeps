@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "f3365a74f3c23f24518a92d2e72dce48"
+inputs: 
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/qiitaListTests/QiitaListViewModelTests.swift"
+- "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/qiitaList/QiitaViewModel.swift"

@@ -1,0 +1,85 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Build/Products/Debug-iphonesimulator/Pods.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Swift.h",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Build/Products/Debug-iphonesimulator/Pods.framework/Headers/Pods-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-umbrella.h",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Pods/Target Support Files/Pods/Pods-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Build/Products/Debug-iphonesimulator/Pods.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Build/Products/Debug-iphonesimulator/Pods/OHHTTPStubs.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "OHHTTPStubs-Swift.h",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Build/Products/Debug-iphonesimulator/Pods/OHHTTPStubs.framework/Headers/OHHTTPStubs-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHHTTPStubs.h",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Pods/OHHTTPStubs/OHHTTPStubs/Sources/OHHTTPStubs.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHHTTPStubsResponse+HTTPMessage.h",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Pods/OHHTTPStubs/OHHTTPStubs/Sources/OHHTTPStubsResponse+HTTPMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHHTTPStubsResponse+JSON.h",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Pods/OHHTTPStubs/OHHTTPStubs/Sources/OHHTTPStubsResponse+JSON.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHHTTPStubsResponse.h",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Pods/OHHTTPStubs/OHHTTPStubs/Sources/OHHTTPStubsResponse.h"
+        },
+        {
+          'type': 'file',
+          'name': "OHPathHelpers.h",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Pods/OHHTTPStubs/OHHTTPStubs/Sources/OHPathHelpers.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-OHHTTPStubs-umbrella.h",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Pods/Target Support Files/Pods-OHHTTPStubs/Pods-OHHTTPStubs-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Build/Products/Debug-iphonesimulator/Pods/OHHTTPStubs.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yamasakitomohiro/Desktop/warkingFolder/qiitaList_nice/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-OHHTTPStubs.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
